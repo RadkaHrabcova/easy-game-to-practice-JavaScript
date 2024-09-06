@@ -11,7 +11,7 @@
 }
 
 body {
-    background-image: linear-gradient(121deg, #252e83 10%, #e20089 100%);
+    background-color: black;
     background-size: cover;
     background-position: center;
     font-family: 'Roboto';
